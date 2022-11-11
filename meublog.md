@@ -1,0 +1,4 @@
+- 🫱𝐎𝐥á 𝐞𝐮 𝐦𝐞 𝐜𝐡𝐚𝐦𝐨 @𝐆𝐮𝐬𝐭𝐚𝐯𝐨𝐎𝐟𝐒𝐦𝐚𝐜𝐡
+- 🌱 Atualmente estou estudando sobre 𝗵𝘁𝗺𝗹 e 𝗹𝗶𝗻𝘂𝘅
+- 💁🏻 Estou Buscando ajudar com meu conhecimento 
+- 🧑‍🎓 Atualmete estou Cursando 1° semestre de Técnico em Redes de Computadores.
