@@ -1,4 +1,4 @@
-### Olá Me chamo Gustavo 👋
+### Olá, Me chamo Gustavo 👋
 <hr>
 
 💬 _Sobre Mim_ 🙂
