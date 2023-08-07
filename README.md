@@ -3,6 +3,6 @@
 
 💬 _Sobre Mim_ 🙂
 
- Linux | Técnico em Redes de Computadores | Desevolvedor Shell | Conhecimento Avançado em Apache atualmente estudando AWS.
+ Linux | Técnico em Redes de Computadores | Desevolvedor Shell | Conhecimento avançado em servidor apache, atualmente estudando os serviços da AWS.
 
 Apaixonado por tecnologia :)
