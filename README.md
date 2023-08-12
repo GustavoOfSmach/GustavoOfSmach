@@ -7,5 +7,5 @@ Linux | Técnico em Redes de Computadores | Desevolvedor Shell | Atualmente estu
 
 Apaixonado por tecnologia :)
 
-![GustavoOfSmach GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoofsmach&show_icons=true&theme=transparenttransparent) 
+![GustavoOfSmach GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoofsmach&show_icons=true&theme=transparentt) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoofsmach&show_icons=true&theme=transparent)
