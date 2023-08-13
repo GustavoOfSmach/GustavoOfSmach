@@ -1,7 +1,7 @@
 ### Olá, Me chamo Gustavo 👋
 <hr>
 
-💬 _Sobre Mim_ 🙂
+💬 _Sobre Mim_ 
 
 Técnico em Redes de Computadores | Desevolvedor Python e Shell | Atualmente estudando serviços da AWS.
 
