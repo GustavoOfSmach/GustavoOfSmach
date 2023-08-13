@@ -8,5 +8,4 @@ Técnico em Redes de Computadores | Desevolvedor Python e Shell | Atualmente est
 Apaixonado por tecnologia :)
 
 ![GustavoOfSmach GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoofsmach&rank_icon=github&theme=transparent) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoofsmach&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoofsmach\&layout=compact&theme=transparent)
