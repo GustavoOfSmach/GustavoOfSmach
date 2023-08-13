@@ -8,5 +8,4 @@ Linux | Técnico em Redes de Computadores | Desevolvedor Shell | Atualmente estu
 Apaixonado por tecnologia :)
 
 ![GustavoOfSmach GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoofsmach&rank_icon=github&theme=transparent) 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&rank_icon=github)+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoofsmach&show_icons=true&theme=transparent)
