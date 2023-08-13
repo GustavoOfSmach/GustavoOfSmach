@@ -3,7 +3,7 @@
 
 💬 _Sobre Mim_ 🙂
 
-Linux | Técnico em Redes de Computadores | Desevolvedor Shell | Atualmente estudando serviços da AWS.
+Técnico em Redes de Computadores | Desevolvedor Python e Shell | Atualmente estudando serviços da AWS.
 
 Apaixonado por tecnologia :)
 
