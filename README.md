@@ -9,7 +9,12 @@ Apaixonado por tecnologia :)
 
 ![GustavoOfSmach GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoofsmach&rank_icon=github&theme=transparent) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoofsmach\&layout=compact&theme=transparent)
+
+#### Social
+
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-vieira-82b62a246/)
+![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)
 
 #### Developer
 
