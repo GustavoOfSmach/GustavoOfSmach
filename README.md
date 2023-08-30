@@ -10,6 +10,11 @@ Técnico em Redes de Computadores | Desevolvedor Python e Shell | Atualmente est
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoofsmach\&layout=compact&theme=transparent)
 
 
+
+#### Social
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-vieira-82b62a246/)
+
 #### Programação
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -23,9 +28,4 @@ Técnico em Redes de Computadores | Desevolvedor Python e Shell | Atualmente est
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-
-#### Social
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-vieira-82b62a246/)
 
