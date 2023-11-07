@@ -10,11 +10,13 @@ Técnico em Redes de Computadores | Desevolvedor Python e Shell | Atualmente est
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoofsmach\&layout=compact&theme=transparent)
 
 
-#### Social
+<p align="center">
+<h2>Social</h2>
+</p>
 <a href="https://www.linkedin.com/in/gustavo-vieira-82b62a246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavoofsmach" height="30" width="40" /></a>
 
 <p align="center">
-<h1>Programação e Conhecimento Abrangente</h1>
+<h2>Programação e Conhecimento Abrangente</h2>
 </p>
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
