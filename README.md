@@ -11,7 +11,7 @@ Técnico em Redes de Computadores | Desevolvedor Python e Shell | Atualmente est
 
 
 #### Social
-<a href="https://linkedin.com/in/pawanosman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pawanosman" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gustavo-vieira-82b62a246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavoofsmach" height="30" width="40" /></a>
 
 #### Programação
 
