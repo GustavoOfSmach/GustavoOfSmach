@@ -8,7 +8,7 @@ Técnico em Redes de Computadores | Desevolvedor Python e Shell | Atualmente est
 
 ![GustavoOfSmach GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoofsmach&rank_icon=github&theme=transparent) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoofsmach\&layout=compact&theme=transparent)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-vieira-82b62a246/)
+<a href="https://linkedin.com/in/pawanosman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pawanosman" height="30" width="40" /></a>
 
 
 #### Programação
