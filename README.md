@@ -4,7 +4,7 @@
 
 💬 _Sobre Mim_ 
 
-Desevolvedor Python e Shell | Formado em Redes atualmente estudando serviços da AWS.
+Desevolvedor Python e Shell | Formado em redes atualmente estudando serviços da AWS.
 
 
 ![GustavoOfSmach GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoofsmach&rank_icon=github&theme=transparent) 
